@@ -1,0 +1,136 @@
+t=2022-01-25T16:20:59-0300 lvl=info msg="no configuration paths supplied"
+t=2022-01-25T16:20:59-0300 lvl=info msg="using configuration at default config path" path=/Users/tnascimento/.ngrok2/ngrok.yml
+t=2022-01-25T16:20:59-0300 lvl=info msg="open config file" path=/Users/tnascimento/.ngrok2/ngrok.yml err=nil
+t=2022-01-25T16:21:00-0300 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040
+t=2022-01-25T16:21:00-0300 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2022-01-25T16:21:00-0300 lvl=info msg="client session established" obj=csess id=8d5dc3362e92
+t=2022-01-25T16:21:00-0300 lvl=info msg="started tunnel" obj=tunnels name="command_line (http)" addr=http://localhost:3000 url=http://6585-132-255-38-203.ngrok.io
+t=2022-01-25T16:21:00-0300 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:3000 url=https://6585-132-255-38-203.ngrok.io
+t=2022-01-25T16:21:39-0300 lvl=info msg="join connections" obj=join id=24923ed88fbb l=[::1]:3000 r=54.197.152.164:65520
+t=2022-01-25T16:21:46-0300 lvl=info msg="join connections" obj=join id=8c08a2e1b0e0 l=[::1]:3000 r=44.195.25.181:47944
+t=2022-01-25T16:22:01-0300 lvl=info msg="join connections" obj=join id=4b81c6727988 l=[::1]:3000 r=44.202.167.19:49654
+t=2022-01-25T16:22:28-0300 lvl=info msg="join connections" obj=join id=2407c5daa865 l=[::1]:3000 r=3.90.15.7:41062
+t=2022-01-25T16:22:48-0300 lvl=info msg="join connections" obj=join id=6de86bccde25 l=[::1]:3000 r=54.91.157.213:43520
+t=2022-01-25T16:22:48-0300 lvl=info msg="join connections" obj=join id=b20281f06bab l=[::1]:3000 r=54.161.97.244:57208
+t=2022-01-25T16:25:49-0300 lvl=info msg="join connections" obj=join id=dace16e305ca l=[::1]:3000 r=54.236.63.59:13206
+t=2022-01-25T16:25:50-0300 lvl=info msg="join connections" obj=join id=7352b68d4821 l=[::1]:3000 r=34.239.177.238:39742
+t=2022-01-25T16:26:07-0300 lvl=info msg="join connections" obj=join id=e0c9c8c117cc l=[::1]:3000 r=3.235.140.101:37160
+t=2022-01-25T16:26:08-0300 lvl=info msg="join connections" obj=join id=baf567108253 l=[::1]:3000 r=3.238.42.25:48396
+t=2022-01-25T16:26:46-0300 lvl=info msg="join connections" obj=join id=28123130f29a l=[::1]:3000 r=3.95.66.87:62636
+t=2022-01-25T16:26:47-0300 lvl=info msg="join connections" obj=join id=c4903a294cc6 l=[::1]:3000 r=44.202.25.175:20642
+t=2022-01-25T16:33:22-0300 lvl=info msg="join connections" obj=join id=6144ff42c061 l=[::1]:3000 r=44.193.82.164:13810
+t=2022-01-25T16:33:50-0300 lvl=info msg="join connections" obj=join id=762eb0e71053 l=[::1]:3000 r=54.198.209.177:35464
+t=2022-01-25T16:33:56-0300 lvl=info msg="join connections" obj=join id=c57c8d32245b l=[::1]:3000 r=35.172.191.127:30016
+t=2022-01-25T16:34:16-0300 lvl=info msg="join connections" obj=join id=d16a4f8285fb l=[::1]:3000 r=34.229.81.232:13988
+t=2022-01-25T16:34:25-0300 lvl=info msg="join connections" obj=join id=acfdf7edbe64 l=[::1]:3000 r=52.91.138.43:16048
+t=2022-01-25T16:34:26-0300 lvl=info msg="join connections" obj=join id=fd7b59abf1d8 l=[::1]:3000 r=44.200.101.216:21008
+t=2022-01-25T16:34:46-0300 lvl=info msg="join connections" obj=join id=9d515b0b2766 l=[::1]:3000 r=44.202.25.175:33534
+t=2022-01-25T16:34:55-0300 lvl=info msg="join connections" obj=join id=3a8485d02454 l=[::1]:3000 r=54.175.1.61:18502
+t=2022-01-25T16:36:14-0300 lvl=info msg="join connections" obj=join id=b8c4780d6fe9 l=[::1]:3000 r=54.210.24.149:53274
+t=2022-01-25T16:36:24-0300 lvl=info msg="join connections" obj=join id=06b225bc577b l=[::1]:3000 r=54.221.65.209:59860
+t=2022-01-25T16:37:14-0300 lvl=info msg="join connections" obj=join id=7cb573a64937 l=[::1]:3000 r=54.161.97.244:17556
+t=2022-01-25T16:37:23-0300 lvl=info msg="join connections" obj=join id=9de0be08904d l=[::1]:3000 r=54.210.131.118:60130
+t=2022-01-25T16:37:37-0300 lvl=info msg="join connections" obj=join id=7e2b09045fe7 l=[::1]:3000 r=3.230.172.114:12796
+t=2022-01-25T16:37:39-0300 lvl=info msg="join connections" obj=join id=0dd930184cde l=[::1]:3000 r=3.80.144.74:53406
+t=2022-01-25T16:37:49-0300 lvl=info msg="join connections" obj=join id=50435028c27d l=[::1]:3000 r=54.208.57.135:58014
+t=2022-01-25T17:08:02-0300 lvl=info msg="join connections" obj=join id=cc80d2841f25 l=[::1]:3000 r=3.233.239.196:37428
+t=2022-01-25T17:08:09-0300 lvl=info msg="join connections" obj=join id=5ffc93898349 l=[::1]:3000 r=44.197.184.168:49514
+t=2022-01-25T17:08:12-0300 lvl=info msg="join connections" obj=join id=dc5f7ce046b5 l=[::1]:3000 r=3.95.66.87:13540
+t=2022-01-25T17:08:14-0300 lvl=info msg="join connections" obj=join id=c46ab076bdb9 l=[::1]:3000 r=3.233.239.196:43426
+t=2022-01-25T17:08:17-0300 lvl=info msg="join connections" obj=join id=5e5a569f1de5 l=[::1]:3000 r=18.207.250.36:14722
+t=2022-01-25T17:08:18-0300 lvl=info msg="join connections" obj=join id=282126b4b997 l=[::1]:3000 r=54.163.44.250:54052
+t=2022-01-25T17:08:23-0300 lvl=info msg="join connections" obj=join id=8c7e507bcdfc l=[::1]:3000 r=3.95.132.141:50674
+t=2022-01-25T17:12:24-0300 lvl=info msg="join connections" obj=join id=507142bfb38f l=[::1]:3000 r=3.95.6.115:15154
+t=2022-01-25T17:12:26-0300 lvl=info msg="join connections" obj=join id=59a7ceaad486 l=[::1]:3000 r=18.233.93.2:25644
+t=2022-01-25T17:12:40-0300 lvl=info msg="join connections" obj=join id=b91ddd5f4a73 l=[::1]:3000 r=18.233.93.2:31310
+t=2022-01-25T17:13:06-0300 lvl=info msg="join connections" obj=join id=9113ffbb9573 l=[::1]:3000 r=44.200.152.20:13016
+t=2022-01-25T17:15:33-0300 lvl=info msg="join connections" obj=join id=17834b8148b8 l=[::1]:3000 r=35.172.191.127:62168
+t=2022-01-25T17:15:49-0300 lvl=info msg="join connections" obj=join id=693eaccd0928 l=[::1]:3000 r=52.201.86.84:58074
+t=2022-01-25T17:16:11-0300 lvl=info msg="join connections" obj=join id=cb0b75d36f34 l=[::1]:3000 r=18.205.109.231:28852
+t=2022-01-25T17:16:12-0300 lvl=info msg="join connections" obj=join id=8935edb6777d l=[::1]:3000 r=54.87.132.72:47792
+t=2022-01-25T17:16:13-0300 lvl=info msg="join connections" obj=join id=599a4538972f l=[::1]:3000 r=44.202.25.175:24928
+t=2022-01-25T17:22:30-0300 lvl=info msg="join connections" obj=join id=30024425f2b7 l=[::1]:3000 r=3.239.227.27:23064
+t=2022-01-25T17:23:20-0300 lvl=info msg="join connections" obj=join id=af6ebb90d25f l=[::1]:3000 r=44.200.65.139:43766
+t=2022-01-25T17:27:16-0300 lvl=eror msg="heartbeat timeout, terminating session" obj=csess id=171a39a6c5ca clientid=abd0924feb1b71edeefc01e21ae350aa
+t=2022-01-25T17:27:16-0300 lvl=eror msg="session closed, starting reconnect loop" obj=csess id=8d5dc3362e92 err="session closed"
+t=2022-01-25T17:27:17-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:56711->3.133.228.214:443: read: connection reset by peer"
+t=2022-01-25T17:27:17-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:56713->3.133.228.214:443: read: connection reset by peer"
+t=2022-01-25T17:27:19-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:56716->3.133.228.214:443: read: connection reset by peer"
+t=2022-01-25T17:27:21-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:56719->3.20.27.198:443: read: connection reset by peer"
+t=2022-01-25T17:27:23-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T17:27:27-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:27:31-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:27:39-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:27:48-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T17:28:01-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:56811->3.133.228.214:443: read: connection reset by peer"
+t=2022-01-25T17:28:19-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:56829->3.133.228.214:443: read: connection reset by peer"
+t=2022-01-25T17:28:44-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:56852->3.133.228.214:443: read: connection reset by peer"
+t=2022-01-25T17:29:15-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:56875->3.136.132.147:443: read: connection reset by peer"
+t=2022-01-25T17:29:46-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:56880->3.20.27.198:443: read: connection reset by peer"
+t=2022-01-25T17:30:16-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T17:30:46-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:31:17-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:31:48-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:32:18-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T17:32:48-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:56936->3.133.228.214:443: read: connection reset by peer"
+t=2022-01-25T17:33:19-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:56937->3.133.228.214:443: read: connection reset by peer"
+t=2022-01-25T17:33:59-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:56945->3.134.73.173:443: i/o timeout"
+t=2022-01-25T17:34:30-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:56972->3.20.27.198:443: read: connection reset by peer"
+t=2022-01-25T17:35:01-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57000->3.20.27.198:443: read: connection reset by peer"
+t=2022-01-25T17:35:31-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T17:36:01-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:36:32-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:37:03-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:37:33-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T17:38:03-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57133->3.12.62.205:443: read: connection reset by peer"
+t=2022-01-25T17:38:34-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57137->3.12.62.205:443: read: connection reset by peer"
+t=2022-01-25T17:39:04-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57138->3.136.132.147:443: read: connection reset by peer"
+t=2022-01-25T17:39:35-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57147->3.12.62.205:443: read: connection reset by peer"
+t=2022-01-25T17:40:06-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57154->3.20.27.198:443: read: connection reset by peer"
+t=2022-01-25T17:40:36-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T17:41:06-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:41:37-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:42:08-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:42:38-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T17:43:08-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57271->3.136.132.147:443: read: connection reset by peer"
+t=2022-01-25T17:43:39-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57275->3.136.132.147:443: read: connection reset by peer"
+t=2022-01-25T17:44:09-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57289->3.133.228.214:443: read: connection reset by peer"
+t=2022-01-25T17:44:40-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57292->3.12.62.205:443: read: connection reset by peer"
+t=2022-01-25T17:45:11-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57299->3.20.27.198:443: read: connection reset by peer"
+t=2022-01-25T17:45:41-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T17:46:11-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:46:42-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:47:13-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:47:43-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T17:48:14-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57359->3.134.73.173:443: read: connection reset by peer"
+t=2022-01-25T17:48:44-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57362->3.133.228.214:443: read: connection reset by peer"
+t=2022-01-25T17:49:14-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57367->3.12.62.205:443: read: connection reset by peer"
+t=2022-01-25T17:49:45-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57373->3.133.228.214:443: read: connection reset by peer"
+t=2022-01-25T17:50:16-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57378->3.20.27.198:443: read: connection reset by peer"
+t=2022-01-25T17:50:46-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T17:51:17-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:51:48-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:52:19-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:52:49-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T17:53:20-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57462->3.134.73.173:443: read: connection reset by peer"
+t=2022-01-25T17:53:50-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57535->3.134.73.173:443: read: connection reset by peer"
+t=2022-01-25T17:54:21-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57544->3.20.27.198:443: read: connection reset by peer"
+t=2022-01-25T17:54:51-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57549->3.20.27.198:443: read: connection reset by peer"
+t=2022-01-25T17:55:22-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57556->3.20.27.198:443: read: connection reset by peer"
+t=2022-01-25T17:55:52-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T17:56:23-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:56:54-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:57:25-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T17:57:55-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T17:58:25-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57637->3.12.62.205:443: read: connection reset by peer"
+t=2022-01-25T17:58:56-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57652->3.12.62.205:443: read: connection reset by peer"
+t=2022-01-25T17:59:26-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57662->3.136.132.147:443: read: connection reset by peer"
+t=2022-01-25T17:59:57-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57674->3.20.27.198:443: read: connection reset by peer"
+t=2022-01-25T18:00:28-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="read tcp 10.33.173.163:57685->3.20.27.198:443: read: connection reset by peer"
+t=2022-01-25T18:00:58-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T18:01:29-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T18:02:00-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T18:02:31-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com"
+t=2022-01-25T18:03:01-0300 lvl=eror msg="failed to reconnect session" obj=csess id=8d5dc3362e92 err="resolved tunnel.us.ngrok.com has no records"
+t=2022-01-25T18:03:32-0300 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2022-01-25T18:03:32-0300 lvl=info msg="client session established" obj=csess id=8d5dc3362e92

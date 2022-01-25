@@ -1,0 +1,22 @@
+{
+  "name": "slack-workshop7",
+  "version": "1.0.0",
+  "description": "node app for workshop 7",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slack",
+    "app",
+    "workshop7"
+  ],
+  "author": "Tiago Nascimento",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.9.0",
+    "axios": "^0.25.0",
+    "dotenv": "^14.3.0",
+    "ngrok": "^4.3.0"
+  }
+}
